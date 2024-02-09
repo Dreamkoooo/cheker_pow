@@ -2,6 +2,10 @@
 
 Script find 'pow' file in the select directory
 
+https://twitter.com/pow_mint
+
+https://pow.cafe/
+
 ### Install Solana-cli ###
 
 ## MacOS ##
