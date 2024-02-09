@@ -37,3 +37,7 @@ cd YOUR DIRECTORY
 2. Start script, it find and print console
 
 python3 pow.py
+
+### FOLOW ME PLEASE ###
+
+https://t.me/planetamoney
